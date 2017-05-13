@@ -1,0 +1,281 @@
+CSS Below
+
+header{
+   height:900px;
+   background-image:url('the-focus-assignment/img/large-banner-image.png');
+   background-repeat: no-repeat;
+   background-position: center top;
+}
+
+
+span {
+   font: 60px Pacifico, sans-serif;
+   font-weight: 400;
+}
+
+.Header-Type{
+   vertical-align: -16px
+}
+
+img {
+  display: inline-block;
+  margin: 17px;
+}
+
+h1 {
+   text-align: center;
+   position: relative;
+   top: 62px;
+   right: 13px;
+}
+
+h2 {
+   font: 22px Raleway, sans-serif;
+   font-weight: 700;
+}
+
+p {
+   font: 36px Raleway, sans-serif;
+   font-weight: 300;
+   text-align: center;
+   position: relative;
+   top: 90px;
+}
+
+.gray {
+  text-align: center;
+  position: relative;
+  height: 435px;
+  width: 100%;
+  background-color: #e3e3e3;
+  bottom: -250px;
+  z-index: -1;
+
+}
+
+.Phone  {
+   float:right;
+   position: relative;
+   display:inline-block;
+   top: -567px;
+   right:33.75%;
+}
+
+.DownArrow  {
+   text-align: center;
+   position: relative;
+   top: -574px;
+}
+
+
+.white-button1  {
+   float:right;
+   display:inline-block;
+   position:absolute;
+   right:53%;
+   bottom:-260px;
+   z-index: 1;
+}
+
+.white-button2  {
+   float:right;
+   display:inline-block;
+   position:absolute;
+   right:53%;
+   bottom:-60px;
+   z-index: 1;
+}
+
+.white-button3  {
+   float:right;
+   display:inline-block;
+   position:absolute;
+   right:44%;
+   bottom: 19px;
+   clear: both;
+}
+
+
+.black-button  {
+   float:right;
+   display:inline-block;
+   position:absolute;
+   right:43.4%;
+   bottom:-170px;
+}
+
+.cursor  {
+   float:right;
+   display:inline-block;
+   position:absolute;
+   right:43.4%;
+   bottom:-172px;
+}
+
+.angle  {
+   float:right;
+   display:inline-block;
+   position:absolute;
+   right:35.8%;
+   bottom:-267px;
+}
+
+
+.content-alt  {
+float:left;
+margin-left: 100px;
+margin-left: 5%;
+position:absolute;
+top:750px;
+left:170px;
+width:20%;
+}
+
+.content-alt2  {
+float:left;
+margin-left: 100px;
+margin-left: 5%;
+position:absolute;
+top:918px;
+left:170px;
+width:20%;
+}
+
+.content  {
+float:right;
+margin-right: 100px;
+margin-right: 5%;
+position:absolute;
+top:750px;
+right:165px;
+width:20%;
+
+}
+
+.content2  {
+float:right;
+margin-right: 100px;
+margin-right: 5%;
+position:absolute;
+top:918px;
+right:165px;
+width:20%;
+}
+
+.alternate  {
+float:left;
+margin-left: 100px;
+margin-left: 5%;
+position:absolute;
+top:1255px;
+left:78px;
+width:36%;
+}
+
+.big{
+float:left;
+display:inline-block;
+margin-left: 100px;
+margin-left: 5%;
+position:absolute;
+top:1420px;
+left:57px;
+padding: 7px
+}
+
+.big1{
+float:left;
+display:inline-block;
+margin-left: 100px;
+margin-left: 5%;
+position:absolute;
+top:1420px;
+left:146px;
+padding: 7px
+}
+
+.big2{
+float:left;
+display:inline-block;
+margin-left: 100px;
+margin-left: 5%;
+position:absolute;
+top:1420px;
+left:235px;
+padding: 7px
+}
+
+.cursor2{
+float:left;
+display:inline-block;
+margin-left: 100px;
+margin-left: 5%;
+position:absolute;
+top:1470px;
+left:279px;
+padding: 7px
+z-index:1;
+}
+
+
+.video-image{
+float:right;
+display:inline-block;
+position:absolute;
+left:800px;
+top:1261px;
+}
+
+.video-play-bar{
+float:right;
+display:inline-block;
+position:absolute;
+right: 190px;
+top:1500px;
+z-index:1;
+}
+
+.play{
+float:right;
+display:inline-block;
+position:absolute;
+right: 540px;
+top:1500px;
+z-index:1;
+}
+
+.other  {
+   display: none;
+   text-align: center;
+}
+
+.near-bottom  {
+   display: none;
+   text-align: center;
+}
+
+footer{
+   word-spacing: 30px;
+   clear: both;
+}
+
+.text{
+   font: 16px HelveticaNeue, sans-serif;
+   line-height: 1.6;
+   font-weight: 400;
+}
+
+.Image  {
+      display: none;
+   text-align: center;
+}
+
+.bottom {
+   display: none;
+   text-align: center;
+}
+.footer {height:900px;
+   background-image:url('the-focus-assignment/img/people.png');
+   background-repeat:no-repeat;
+   background-position:bottom;
+}
